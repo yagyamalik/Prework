@@ -29,10 +29,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/t7LiBHa.gif)
 
-
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 The basic functionality of the application was pretty straight forward to implement, although when I tried to implement the advanced and optional functionality, I found it to be really challenging
