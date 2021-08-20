@@ -4,7 +4,7 @@ TC is a tip calculator application for iOS.
 
 Submitted by: Yagya Malik	
 
-Time spent: 1:30 hours spent in total
+Time spent: 2:30 hours spent in total
 
 ## User Stories
 
@@ -27,14 +27,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![](https://i.imgur.com/t7LiBHa.gif)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The basic functionality of the application was pretty straight forward to implement, although when I tried to implement the advanced and optional functionality, I found it to be really challenging
 
 ## License
 
